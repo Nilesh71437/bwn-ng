@@ -7,4 +7,10 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'app';
+  componentes ="my name is nilesh";
+  
+  clickHandler(){
+    alert("welcome Nilesh")
+  }
+
 }
